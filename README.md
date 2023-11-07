@@ -1,5 +1,5 @@
 # Tres-Amigas
-Margaret Ogunsanya: mao215@pitt.edu, Paige Frank: paf72@pitt.edu, Emma Mahoney: egm80@pitt.edu/n
+Margaret Ogunsanya: mao215@pitt.edu, Paige Frank: paf72@pitt.edu, Emma Mahoney: egm80@pitt.edu \
 Margaret:-Final Project Noise
 Emma:- Final Project Courts
 Paige:-Final Project Farmers Market
