@@ -20,5 +20,5 @@ Dataset pertaining to the amount of basketball courts in certain neighborhoods i
 City of Pittsburgh Courts and Rinks - City Courts and Rinks - CKAN (wprdc.org)
 https://data.wprdc.org/dataset/city-of-pittsburgh-courts/resource/a5b71bfa-840c-4c86-8f43-07a9ae854227
 
-**Description of Repository**
+**Description of Repository**\
 This repository aims to develop a D1 basketball player, prioritizing factors like proper sleep, court accessibility, and a nutritious diet.
