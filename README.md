@@ -1,9 +1,11 @@
 # Tres-Amigas
+**Members**
 Margaret Ogunsanya: mao215@pitt.edu, Paige Frank: paf72@pitt.edu, Emma Mahoney: egm80@pitt.edu \
+**Personal Notebook**
 Margaret:-Final Project Noise
 Emma:- Final Project Courts
 Paige:-Final Project Farmers Market
-Canvas Group #2
+**Canvas Group #2**
 
 Dataset pertaining to the Farmers Markets in the Neighborhoods in Pittsburgh.
 Allegheny County Farmers Market Nutrition Program - Current Farmers Markets - CKAN (wprdc.org)
