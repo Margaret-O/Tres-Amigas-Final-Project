@@ -1,0 +1,72 @@
+_id	market_id	market_type	market_name	address1	city	state	zip_code	latitude	longitude	phone	phone_ext	county
+1486	21	Farm Stand	Beccari's Farm Market	5095 Thomas Run Road	Oakdale	PA	15071	40.3753878	-80.1353771	4122218768		Allegheny
+1487	51	Farm Market	Carrick Citiparks Farmers Market	1529 Brownsville Road	Pittsburgh	PA	15210	40.3913414	-79.986603	4124226547		Allegheny
+1488	90	Farm Market	East Liberty Farmers Market	N Euclid Ave & Broad St	Pittsburgh	PA	15026	40.4707688	-79.9228625			Allegheny
+1489	92	Farm Stand	Eichner's Farm Market & Greenhouses	285 Richard Road	Wexford	PA	15090	40.608589	-80.061099	7249352131		Allegheny
+1490	207	Farm Market	Monroeville FM	2399 Tillbrook Rd	Monroeville	PA	15146	40.4183624	-79.763612	7245388621		Allegheny
+1491	227	Farm Market	Pgh Original Night Farmers Market	151 Park Road	McDonald	PA	15057	40.3712883	-80.2263223			Allegheny
+1492	3910	Farm Market	New Dillner Family Farm Market	80 Oak Rd	Gibsonia	PA	15044	40.6229219	-79.900133	7244446594		Allegheny
+1493	3932	Farm Market	Farmers Market at The Block	8013 McKnight Rd	Pittsburgh	PA	15237	40.551259	-80.0210399			Allegheny
+1494	3938	Farm Market	Plum Market	Renton Road Mine	Plum	PA	15239	40.5065105	-79.7234442			Allegheny
+1495	3940	Farm Stand	CCR Gardens	111 Marshall Dr	McKeesport	PA	15132	40.3339166	-79.8230182			Allegheny
+1496	3977	Farm Market	Plum FM	2000 Old Mine Rd	Plum Borough	PA	15068	40.5085289	-79.7295836			Allegheny
+1497	3817	Farm Stand	Kaelin Farms Market	2547 Brandt School Road	Wexford	PA	15090	40.606884	-80.0887179			Allegheny
+1498	3819	Farm Stand	PA Libations	2103 Penn Ave	Pittsburgh	PA	15222	40.4519459	-79.983171			Allegheny
+1499	3840	Farm Market	Hampton Farmers Market	3103 McCulley Rd	Allison Park	PA	15101	40.5817003	-79.9310915			Allegheny
+1500	3846	Farm Market	East End Citiparks	100Larimer Ave	Pittsburgh	PA	15206	40.4619437	-79.9196037			Allegheny
+1501	3852	Farm Market	Oakmont Farmers Market	600 Allegheny River Blvd	Oakmont	PA	15139	40.5191919	-79.8422439			Allegheny
+1502	3872	Farm Market	Baldwin Borough Farmers Market	41 MACEK DRIVE	PITTSBURGH	PA	15227	40.35776	-79.963652			Allegheny
+1503	3643	Farm Market	Devine Redeemer Church formerly St James	200 Walnut St	Sewickley	PA	15143	40.5375999	-80.184694			Allegheny
+1504	3666	Farm Market	Lawrenceville Farmers Market	123 41st Street	Lawrenceville	PA	15201	40.471285	-79.96358	4128027220		Allegheny
+1505	3671	Farm Stand	Renzie Market	Tulip Drive	McKeesport	PA	15132	40.3398434	-79.8289475			Allegheny
+1506	3677	Farm Market	Carnegie Farmers Market	Mary & E Main Streets	Carnegie	PA	15106	40.4254803	-80.1408716			Allegheny
+1507	3736	Farm Market	Wilkinsburg Farmers Market	739 Penn Ave	Wilkinsburg	PA	15221	40.443556	-79.883681			Allegheny
+1508	3753	Farm Market	Hampton Farmers Market	3101 McCully Rd	Allison Park	PA	15101	40.582594	-79.934791			Allegheny
+1509	3481	Farm Market	Holy Cross FM	123 Gilkeson Rd	Mt Lebanon	PA	15228	40.3554255	-80.0530258			Allegheny
+1510	3482	Farm Market	The Block at Northway	8013 McKnight Rd	Pittsburgh	PA	15237	40.5516087	-80.0209421			Allegheny
+1511	3509	Farm Stand	Homewood Farmers Market	517 Brushton Ave	PITTSBURGH	PA	15208	40.4504489	-79.8908929			Allegheny
+1512	3514	Farm Stand	Decarlo's Market	560 MCKeesport Rd	Elizabeth	PA	15037	40.278307	-79.8755899			Allegheny
+1513	3515	Farm Stand	Renzie Market	2200 Eden Park Blvd	McKeesport	PA	15132	40.3404079	-79.8272895			Allegheny
+1514	3636	Farm Stand	Garfield Farm Stand	509 Wicklow Street	Pittsburgh	PA	15224	40.4688884	-79.9350143			Allegheny
+1515	3262	Farm Market	Squirrel Hill FM	Bacon & Bartell	Squirrel Hill	PA	15127	40.4347923	-79.9227336			Allegheny
+1516	3319	Farm Market	Mount Lebanon	710 Washington Rd	Mt Lebanon	PA	15228	40.3799988	-80.045239			Allegheny
+1517	3321	Farm Market	Robinson FM	5718 Steubenville Pike	McKees Rocks	PA	15136	40.4525503	-80.1363663			Allegheny
+1518	3333	Farm Stand	Duda's Farm Market	1029 Lebanon Rd	West Mifflin	PA	15122					Allegheny
+1519	3442	Farm Stand	Greater Pittsburgh Food Bank	1 N Linden St	Duquesne	PA	15110	40.3757792	-79.8424543			Allegheny
+1520	3479	Farm Stand	Pittsburgh Urban Garden Project	1612 Steuben Street	Crafton	PA	15205	40.443894	-80.05627			Allegheny
+1521	2739	Farm Market	Aspinwall FM	250 Freeport RD	Aspinwell	PA	15215	40.4893588	-79.9030552			Allegheny
+1522	2743	Farm Market	St John Church	920 Perry Hwy	Pittsburgh	PA	15229	40.533477	-80.035435			Allegheny
+1523	2836	Farm Stand	MALLISEE FARM	7838 SALTSBURG RD	PLUM	PA	15239	40.4756284	-79.7647372			Allegheny
+1524	3021	Farm Stand	BEDNERS FARM MARKET	1520 BOWER HILL ROAD	UPPER ST CLAIR	PA	15241	40.361279	-80.089355			Allegheny
+1525	3171	Farm Market	Swissvale FM	2036 Noble Street	Swissvale	PA	15218	40.4209151	-79.8857961			Allegheny
+1526	3172	Farm Market	West Homestead FM	456 W 8th Ave	West Homestead	PA	15120	40.4012136	-79.9173288			Allegheny
+1527	2379	Farm Market	Braddock Farm Stand	1000 Braddock Avenue	Braddock	PA	15104	40.399053	-79.8631369	4123624769		Allegheny
+1528	2446	Farm Market	Upper St Clair Farmers Market	2040 Washington Road	Upper St Clair	PA	15241	40.340036	-80.0653899			Allegheny
+1529	2486	Farm Market	Verona Farmers Market	736 East Railroad Avenue	Verona	PA	15147	40.505477	-79.844506	4127210943		Allegheny
+1530	2501	Farm Stand	Tarentum	913 Lock St	Tarentum	PA	15084	40.6030221	-79.7524571			Allegheny
+1531	2621	Farm Market	BELLEVUE	34 North Balph Ave	Pittsburgh	PA	15202	40.4962663	-80.0569321			Allegheny
+1532	2731	Farm Stand	SHILOH FARM STAND	7209 THOMAS BLVD	PITTSBURGH	PA	15208	40.4509213	-79.8998585			Allegheny
+1533	1360	Farm Market	Bethel Park Farmers Market	Corrigan Drive	Bethel Park	PA	15102	40.3191781	-80.0081111			Allegheny
+1534	1645	Farm Market	Sewickley Farmers Market	200 Walnut Street	Sewickley	PA	15143	40.5375987	-80.1847631			Allegheny
+1535	1666	Farm Stand	Bachman's Farm Market	2905 Freeport Road	Natrona Heights	PA	15065	40.6395268	-79.7111371	7242268095		Allegheny
+1536	1819	Farm Market	The Original Farmers Market	151 Park Rd.	McDonald	PA	15057	40.3712883	-80.2263223	7248993438		Allegheny
+1537	1846	Farm Market	Blackberry Meadows Farm	7115 Ridge Road	Natrona Heights	PA	15065	40.659435	-79.745694			Allegheny
+1538	2217	Farm Market	Shenot Farm Market	3754 Wexford Run Road	Wexford	PA	15090	40.626413	-80.079126	7249352542		Allegheny
+1539	1060	Farm Stand	Soergel Orchards	2573 Brandt School Road	Wexford	PA	15090	40.6153181	-80.0928344	7249351743		Allegheny
+1540	1485	Farm Market	Bloomfield Farmers Market	5050 Liberty Ave	Pittsburgh	PA	15224	40.4590954	-79.9442895			Allegheny
+1541	1538	Farm Market	Green Tree Farmer's Market in the Park	895 Greentree Road	Pittsburgh	PA	15220	40.4233586	-80.0444059	4129211110		Allegheny
+1542	1477	Farm Stand	Wexford Farms	550 Warrendale Road	Wexford	PA	15090	40.6520911	-80.0562206	7246251635		Allegheny
+1543	1512	Farm Stand	Dillner Family Farm	4140/Sandy Hill Road	Gibsonia	PA	15044	40.6681675	-79.9237499	7244446594		Allegheny
+1544	1579	Farm Stand	Olde World Produce	1206 State Route 51	Jefferson Hills	PA	15025	40.312175	-79.93862			Allegheny
+1545	428	Farm Market	North Side Farmers Market	East Ohio St. amd Cedar Ave.	Pittsburgh	PA	15212	40.5167764	-80.030741	4124226523		Allegheny
+1546	489	Farm Market	Farmers Market Cooperative of East Liberty	344 North Sheridan Avenue	Pittsburgh	PA	15206	40.4644172	-79.9214983	4126611875		Allegheny
+1547	545	Farm Market	Mt Lebanon Farmers Market	975 Washington Road	Pittsburgh	PA	15228	40.374029	-80.047817	4127205163		Allegheny
+1548	819	Farm Stand	Harvest Valley Farm Market & Bakery	6003 Cunningham Road	Gibsonia	PA	15044	40.66388	-79.937014	7248983276		Allegheny
+1549	929	Farm Market	Forest Hills Farmers Market	4400 Greensburg Pike	Pittsburgh	PA	15221	40.417691	-79.840482	7243391709		Allegheny
+1550	928	Farm Stand	Bridge's Farm and Greenhouses	7108 Leechburg Road	New Kensington	PA	15068	40.5128978	-79.7632284	7243391709		Allegheny
+1551	242	Farm Market	Pittsburgh Market Square	Smithfield St & 6th Ave	Pittsburgh	PA	15222	40.4395392	-79.9990153			Allegheny
+1552	296	Farm Market	Southside Farmers Market	18th and Carson Streets	Pittsburgh	PA	15203	40.4287528	-79.980545			Allegheny
+1553	303	Farm Stand	Sturges Orchards	1726 Penn Ave	Pittsburgh	PA	15222	40.449865	-79.9856963	7247528920		Allegheny
+1554	317	Farm Stand	Triple B Farms	823 Berry Lane	Monongahela	PA	15063	40.227675	-79.946589	7242583557		Allegheny
+1555	406	Farm Stand	Janoski's Farm	1714 Route 30	Clinton	PA	15026	40.6308623	-79.8263713	7248993438		Allegheny
+1556	425	Farm Market	Moon Farmers Market	1629 Beaver Grade Rd	Moon Township	PA	15108	40.4992819	-80.201288	4122621700		Allegheny
